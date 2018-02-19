@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "WordMasterintent",
+      "slots": [
+        {
+          "name": "queryword",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

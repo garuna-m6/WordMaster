@@ -1,0 +1,22 @@
+WordMasterintent what is another word for {dog|queryword}
+WordMasterintent what is a synonym for {dog|queryword}
+WordMasterintent what's a synonym for {dogs|queryword}
+WordMasterintent a synonym for {cat|queryword}
+WordMasterintent for a synonym for {rat|queryword}
+WordMasterintent how else would I say {cat|queryword}
+WordMasterintent how else would I say {mouse|queryword}
+WordMasterintent what's a smart way to say {panda|queryword}
+WordMasterintent what's another word for {white|queryword}
+WordMasterintent {black|queryword}
+WordMasterintent a word for {purple|queryword}
+WordMasterintent for a good synonym for {red|queryword}
+WordMasterintent to tell me a synonym for {yellow|queryword}
+WordMasterintent to give me a synonym for {orange|queryword}
+WordMasterintent about a synonym for {smart|queryword}
+WordMasterintent for another word for {lazy|queryword}
+WordMasterintent tell another word for {fast|queryword}
+WordMasterintent tell me another word for {slow|queryword}
+AMAZON.HelpIntent help
+AMAZON.HelpIntent help me
+AMAZON.StopIntent stop
+AMAZON.CancelIntent cancel
